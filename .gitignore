@@ -1,0 +1,6 @@
+models/distilbert/
+models/bilstm.pth
+Data/*.csv
+!Data/cleaned_products.csv
+__pycache__/
+*.zip
